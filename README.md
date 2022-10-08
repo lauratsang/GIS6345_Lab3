@@ -1,1 +1,1 @@
-# project1
+# GIS6345 Lab 3 Exercises
